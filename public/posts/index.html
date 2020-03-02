@@ -11,14 +11,10 @@
 
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Blog"/>
-<meta name="twitter:description" content="STAT 385 I&rsquo;m taking STAT 385 class because I need to get my Data Science Certificate. I first didn&rsquo;t like vectorizing because that was just not how I think. Since I started coding 5-6 years ago, I was always taught that short and good loops were the best, but you want to avoid that in R! I know. Shocking.
-So here&rsquo;s some code:
-Something that would be very normal in java or something, but want to be avoided in R:"/>
+<meta name="twitter:description" content="STAT 385 I&rsquo;m taking STAT 385 because it&rsquo;s one of the classes that I have to take to get my Data Science Certificate! When I first learned how to code in R around a year ago, vecorizing my code was an odd way to think. Ever since I started coding 5-6 years ago, I was always taught that short and good loops were good, but you generally want to avoid that in R!"/>
 
     <meta property="og:title" content="Blog" />
-<meta property="og:description" content="STAT 385 I&rsquo;m taking STAT 385 class because I need to get my Data Science Certificate. I first didn&rsquo;t like vectorizing because that was just not how I think. Since I started coding 5-6 years ago, I was always taught that short and good loops were the best, but you want to avoid that in R! I know. Shocking.
-So here&rsquo;s some code:
-Something that would be very normal in java or something, but want to be avoided in R:" />
+<meta property="og:description" content="STAT 385 I&rsquo;m taking STAT 385 because it&rsquo;s one of the classes that I have to take to get my Data Science Certificate! When I first learned how to code in R around a year ago, vecorizing my code was an odd way to think. Ever since I started coding 5-6 years ago, I was always taught that short and good loops were good, but you generally want to avoid that in R!" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="/posts/" />
 
@@ -117,9 +113,9 @@ Something that would be very normal in java or something, but want to be avoided
     </header>
 
     <h1 id="stat-385">STAT 385</h1>
-<p>I&rsquo;m taking STAT 385 class because I need to get my Data Science Certificate. I first didn&rsquo;t like vectorizing because that was just not how I think. Since I started coding 5-6 years ago, I was always taught that short and good loops were the best, but you want to avoid that in R! I know. <em>Shocking</em>.</p>
-<p>So here&rsquo;s some code:</p>
-<p><strong>Something that would be very normal in java or something, but want to be avoided in R:</strong></p>
+<p>I&rsquo;m taking STAT 385 because it&rsquo;s one of the classes that I have to take to get my Data Science Certificate! When I first learned how to code in R around a year ago, vecorizing my code was an odd way to think. Ever since I started coding 5-6 years ago, I was always taught that short and good loops were good, but you generally want to avoid that in R! I know. <em>Shocking</em>.</p>
+<p><strong>So, here&rsquo;s a loop that produces names that contains 8 or more than 8 characters:</strong> 
+Something that would be very normal in java or something, but want to be avoided in R:</p>
 <div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">long_names_vec &lt;- function(names) {
   output &lt;- c()
   for (i in 1:length(names)) {
@@ -135,7 +131,9 @@ Something that would be very normal in java or something, but want to be avoided
               &#34;washington&#34;, &#34;lincoln&#34;, &#34;maximo&#34;, &#34;mason&#34;, &#34;luca&#34;, &#34;anthony&#34;, &#34;kevin&#34;)
 long_names_vec(names = my_names)
 
-</code></pre></div><p><strong>But you can significanly reduce the runtime if you vecorize that code above into this:</strong></p>
+</code></pre></div><p>Output =</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">##[1] &#34;alexander&#34;   &#34;sebastian&#34;   &#34;johnathan&#34;   &#34;christopher&#34; &#34;washington&#34;
+</code></pre></div><p><strong>But you can significanly reduce the runtime if you vecorize it:</strong></p>
 <div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">long_name_vec &lt;- function(names) {
   my_names[nchar(my_names) &gt;= 8]
 }
@@ -146,7 +144,9 @@ my_names &lt;- c(&#34;alexander&#34;, &#34;david&#34;, &#34;sebastian&#34;, &#34
 # test your code
 long_name_vec(names = my_names)
 
-</code></pre></div><p>Both works, but the last one works better.</p>
+</code></pre></div><p>Output =</p>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-fallback" data-lang="fallback">##[1] &#34;alexander&#34;   &#34;sebastian&#34;   &#34;johnathan&#34;   &#34;christopher&#34; &#34;washington&#34;
+</code></pre></div><p>Both works, but the last one is much better/efficient.</p>
 
   </article>
 </section>
