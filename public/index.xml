@@ -48,7 +48,9 @@ Courses I&amp;rsquo;ve only listed some of the classes that I&amp;rsquo;ve taken
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/</guid>
-      <description>STAT 385 I&amp;rsquo;m taking STAT 385 because it&amp;rsquo;s one of the classes that I have to take to get my Data Science Certificate! When I first learned how to code in R around a year ago, vecorizing my code was an odd way to think. Ever since I started coding 5-6 years ago, I was always taught that short and good loops were good, but you generally want to avoid that in R!</description>
+      <description>STAT 385 I&amp;rsquo;m taking STAT 385 class because I need to get my Data Science Certificate. I first didn&amp;rsquo;t like vectorizing because that was just not how I think. Since I started coding 5-6 years ago, I was always taught that short and good loops were the best, but you want to avoid that in R! I know. Shocking.
+So here&amp;rsquo;s some code:
+Something that would be very normal in java or something, but want to be avoided in R:</description>
     </item>
     
     <item>
@@ -81,7 +83,8 @@ LinkedIn Send a message! LinkedIn</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>Interests  My interests are the following:  CyberGIS GIS data analysis spatial analysis programming geospatial data science PRA (mainly HRA) software development    Projects Here are some projects that I&amp;rsquo;ve done in the past!You can open it to a new tab to read it :)</description>
+      <description>Interests  My interests are the following:  CyberGIS GIS data analysis spatial analysis programming geospatial data science PRA (mainly HRA) software development    Projects Here are some projects that I&amp;rsquo;ve done in the past!You can open it to a new tab to read it.
+Maps Created to Illustrate Gun Violence in U.S. </description>
     </item>
     
     <item>
@@ -90,7 +93,8 @@ LinkedIn Send a message! LinkedIn</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>Interests  My interests are the following:  CyberGIS GIS data analysis spatial analysis programming geospatial data science PRA (mainly HRA) software development    Projects Here are some projects that I&amp;rsquo;ve done in the past! You can open it to a new tab to read it :)</description>
+      <description>Interests  My interests are the following:  CyberGIS GIS data analysis spatial analysis programming geospatial data science PRA (mainly HRA) software development    Projects Here are some projects that I&amp;rsquo;ve done in the past! You can open it to a new tab to read it.
+Maps Created to Illustrate Gun Violence in U.S. </description>
     </item>
     
   </channel>
