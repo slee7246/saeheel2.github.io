@@ -34,4 +34,4 @@ title: About Me
   
 # Resume
 
-![This is my resume](/images/resume.jpg)
+![This is my resume](/images/resume.png)
