@@ -8,7 +8,7 @@ title: Blog
 
 I'm taking STAT 385 class because I need to get my Data Science Certificate. I first didn't like vectorizing because that was just not how I think. Since I started coding 5-6 years ago, I was always taught that short and good loops were the best, but you want to avoid that in R! I know. *Shocking*. 
 
-So here's some code:
+So here's some code that prints names with 8 or more letters in them:
 
 **Something that would be very normal in java or something, but want to be avoided in R:**
 
@@ -33,7 +33,12 @@ my_names <- c("alexander", "david", "sebastian", "johnathan", "christopher", "ha
 long_names_vec(names = my_names)
 
 ```
+Output = 
 
+```{r}
+[1] "alexander"   "sebastian"   "johnathan"   "christopher" "washington" 
+
+```
 
 **But you can significanly reduce the runtime if you vecorize that code above into this:**
 
@@ -54,7 +59,13 @@ my_names <- c("alexander", "david", "sebastian", "johnathan", "christopher", "ha
 long_name_vec(names = my_names)
 
 ```
+Output = 
+
+```{r}
+[1] "alexander"   "sebastian"   "johnathan"   "christopher" "washington" 
+
+```
 
 
-Both works, but the last one works better.
+Both works and produces the same output, but the last one works better.
 

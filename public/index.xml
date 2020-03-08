@@ -28,7 +28,7 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Biography Sarah Lee is a junior @ the University of Illinois - Urbana Champaign majoring in Geography &amp;amp; GIS, concentrating in GIS. Coming from a CS background, she has a good amount of knowledge in programming on top of GGIS. Because of Sarah’s interest in spatial analysis and data science, she is also working towards a Data Science Certificate from the Department of Statistics @ UIUC.
+      <description>Biography Sarah Lee is a junior @ the University of Illinois at Urbana- Champaign majoring in Geography &amp;amp; GIS, concentrating in GIS. Coming from a CS background, she has a good amount of knowledge in programming on top of GGIS. Because of Sarah&amp;rsquo;s interest in spatial analysis and data science, she is also working towards a Data Science Certificate from the Department of Statistics @ UIUC.
 Courses I&amp;rsquo;ve only listed some of the classes that I&amp;rsquo;ve taken.</description>
     </item>
     
@@ -38,7 +38,7 @@ Courses I&amp;rsquo;ve only listed some of the classes that I&amp;rsquo;ve taken
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Biography Sarah Lee is a junior @ the University of Illinois - Urbana Champaign majoring in Geography &amp;amp; GIS, concentrating in GIS. She comes from a CS background, thus, she has a good amount of knowledge in programming on top of GGIS. Because of Sarah’s interest in spatial analysis and data science, she is also working towards a Data Science Certificate from the Department of Statistics @ UIUC.
+      <description>Biography Sarah Lee is a junior @ the University of Illinois at Urbana- Champaign majoring in Geography &amp;amp; GIS, concentrating in GIS. Coming from a CS background, she has a good amount of knowledge in programming on top of GGIS. Because of Sarah&amp;rsquo;s interest in spatial analysis and data science, she is also working towards a Data Science Certificate from the Department of Statistics @ UIUC.
 Courses I&amp;rsquo;ve only listed some of the classes that I&amp;rsquo;ve taken.</description>
     </item>
     
@@ -83,8 +83,9 @@ LinkedIn Send a message! LinkedIn</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>Interests  My interests are the following:  CyberGIS GIS data analysis spatial analysis programming geospatial data science PRA (mainly HRA) software development    Projects Here are some projects that I&amp;rsquo;ve done in the past!You can open it to a new tab to read it.
-Maps Created to Illustrate Gun Violence in U.S. </description>
+      <description>Interests  My interests are the following:  CyberGIS GIS data analysis spatial analysis programming geospatial data science PRA (mainly HRA) software development    Projects Here are some projects that I&amp;rsquo;ve done in the past!
+You can open it to a new tab to read it.
+Maps Created to Illustrate Gun Violence in U.S (2019).  3 or more involved are classifed as mass shootings   Ages 13-17 were classified as teens   Ages 0-11 were classified as children  </description>
     </item>
     
     <item>
@@ -93,8 +94,9 @@ Maps Created to Illustrate Gun Violence in U.S. </description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/projects/</guid>
-      <description>Interests  My interests are the following:  CyberGIS GIS data analysis spatial analysis programming geospatial data science PRA (mainly HRA) software development    Projects Here are some projects that I&amp;rsquo;ve done in the past! You can open it to a new tab to read it.
-Maps Created to Illustrate Gun Violence in U.S. </description>
+      <description>Interests  My interests are the following:  CyberGIS GIS data analysis spatial analysis programming geospatial data science PRA (mainly HRA) software development    Projects Here are some projects that I&amp;rsquo;ve done in the past!
+You can open it to a new tab to read it.
+Maps Created to Illustrate Gun Violence in U.S (2019).  3 or more involved are classifed as mass shootings   Ages 13-17 were classified as teens   Ages 0-11 were classified as children  </description>
     </item>
     
   </channel>
