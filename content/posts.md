@@ -5,8 +5,11 @@ title: Blog
 
 # STAT 385
 
+I'm taking STAT 385 class for my Data Science Certification! 
 
-I'm taking STAT 385 class because I need to get my Data Science Certificate. I first didn't like vectorizing because that was just not how I think. Since I started coding 5-6 years ago, I was always taught that short and good loops were the best, but you want to avoid that in R! I know. *Shocking*. 
+
+
+Here's something about R that I was not familiar with: vectorizing. I first didn't like vectorizing because that was just not how I think. Since I started coding 5-6 years ago, I was always taught that short and good loops were the best, but you want to avoid that in R! I know. *Shocking*. 
 
 So here's some code that prints names with 8 or more letters in them:
 
