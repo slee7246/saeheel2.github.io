@@ -3,6 +3,14 @@ slug: posts
 title: Blog
 ---
 
+# Covid-19 Maps
+
+Very quick and simple visual map that shows the confirmed covid-19 cases in the U.S.
+
+![04/30/2020](/images/covid19.jpg)
+
+
+
 # STAT 385
 
 I'm taking STAT 385 class for my Data Science Certification! 
