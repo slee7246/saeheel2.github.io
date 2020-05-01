@@ -17,7 +17,7 @@ I'm taking STAT 385 class for my Data Science Certification!
 
 
 
-Here's something about R that I was not familiar with: vectorizing.Since I started coding 6-7 years ago, I was always taught that short and good loops were the best, but you want to avoid that in R! I know. *Shocking*. 
+Here's something about R that I was not familiar with: vectorizing. Since I started coding 6-7 years ago, I was always taught that short and good loops were the best, but you want to avoid that in R! I know. *Shocking*. 
 
 So here's some code that prints names with 8 or more letters in them:
 
