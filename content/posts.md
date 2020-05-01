@@ -14,7 +14,6 @@ Very quick and simple visual map that shows the confirmed covid-19 cases in the 
 - Confirmed deaths since April 30, 2020
 
 
-
 # STAT 385
 
 I'm taking STAT 385 class for my Data Science Certification! 
