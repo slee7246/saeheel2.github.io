@@ -8,6 +8,10 @@ title: Blog
 Very quick and simple visual map that shows the confirmed covid-19 cases in the U.S.
 
 ![Confirmed Covid-19 cases in the US](/images/covid19.jpg)
+- Confirmed cases since April 30, 2020
+
+![Covid-19 Deaths in the US](/images/covid19_deaths.jpg)
+- Confirmed deaths since April 30, 2020
 
 
 
