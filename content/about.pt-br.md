@@ -6,7 +6,7 @@ title: About Me
 # Biography
 
 
-**Sarah Lee** is a junior @ the University of Illinois at Urbana- Champaign majoring in Geography & GIS, concentrating in GIS. Coming from a CS background, she has a good amount of knowledge in programming on top of GGIS. Because of Sarah's interest in spatial analysis and data science, she is also working towards a Data Science Certificate from the Department of Statistics @ UIUC.
+**Sarah Lee** is a senior @ the University of Illinois at Urbana- Champaign majoring in Geography & GIS, concentrating in GIS. Coming from a CS background, she has a good amount of knowledge in programming on top of GGIS. Because of Sarah's interest in spatial analysis and data science, she is also working towards a Data Science Certificate from the Department of Statistics @ UIUC.
 
 
 # Courses
