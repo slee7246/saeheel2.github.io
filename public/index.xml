@@ -6,20 +6,18 @@
     <description>Recent content on Sarah Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/about/</guid>
+      <description>Biography Sarah Lee is a senior at the University of Illinois at Urbana - Champaign, majoring in Geography &amp;amp; Geographic Information Science (GIS), with a concentration in GIS. She comes from a computer science background and has experience with languages such as Java, Swift, JavaScript, Html &amp;amp; CSS.
+Being interested and being passionate in geospatial analysis, Sarah is knowledgeable in Python and R, and software applications such as ArcGIS, ENVI, QGIS, and GeoDA.</description>
     </item>
     
     <item>
@@ -28,18 +26,8 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Biography Sarah Lee is a junior @ the University of Illinois at Urbana- Champaign majoring in Geography &amp;amp; GIS, concentrating in GIS. Coming from a CS background, she has a good amount of knowledge in programming on top of GGIS. Because of Sarah&amp;rsquo;s interest in spatial analysis and data science, she is also working towards a Data Science Certificate from the Department of Statistics @ UIUC.
-Courses I&amp;rsquo;ve only listed some of the classes that I&amp;rsquo;ve taken.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Biography Sarah Lee is a junior @ the University of Illinois at Urbana- Champaign majoring in Geography &amp;amp; GIS, concentrating in GIS. Coming from a CS background, she has a good amount of knowledge in programming on top of GGIS. Because of Sarah&amp;rsquo;s interest in spatial analysis and data science, she is also working towards a Data Science Certificate from the Department of Statistics @ UIUC.
-Courses I&amp;rsquo;ve only listed some of the classes that I&amp;rsquo;ve taken.</description>
+      <description>Biography Sarah Lee is a senior at the University of Illinois at Urbana - Champaign, majoring in Geography &amp;amp; Geographic Information Science (GIS), with a concentration in GIS. She comes from a computer science background and has experience with languages such as Java, Swift, JavaScript, Html &amp;amp; CSS.
+Being interested and being passionate in geospatial analysis, Sarah is knowledgeable in Python and R, and software applications such as ArcGIS, ENVI, QGIS, and GeoDA.</description>
     </item>
     
     <item>
@@ -48,9 +36,9 @@ Courses I&amp;rsquo;ve only listed some of the classes that I&amp;rsquo;ve taken
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/</guid>
-      <description>Covid-19 Maps Very quick and simple visual map that shows the confirmed covid-19 cases in the U.S.
+      <description>Good News!  I made it to the Deans List of 2020! I&amp;rsquo;ll post an official link as soon as I get it.  Covid-19 Maps Very quick and simple visual map that shows the confirmed covid-19 cases in the U.S.
  Confirmed cases since April 30, 2020   Confirmed deaths since April 30, 2020  STAT 385 I&amp;rsquo;m taking STAT 385 class for my Data Science Certification!
-Here&amp;rsquo;s something about R that I was not familiar with: vectorizing. Since I started coding 6-7 years ago, I was always taught that short and good loops were the best, but you want to avoid that in R!</description>
+Here&amp;rsquo;s something about R that I was not familiar with: vectorizing.</description>
     </item>
     
     <item>

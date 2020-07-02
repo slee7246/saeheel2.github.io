@@ -3,6 +3,11 @@ slug: posts
 title: Blog
 ---
 
+# Good News!
+- I made it to the Deans List of 2020! I'll post an official link as soon as I get it.
+
+
+
 # Covid-19 Maps
 
 Very quick and simple visual map that shows the confirmed covid-19 cases in the U.S.
